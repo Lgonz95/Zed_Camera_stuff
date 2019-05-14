@@ -1,0 +1,1 @@
+H:/Visual Studio/Common7/IDE/VC/VCTargets

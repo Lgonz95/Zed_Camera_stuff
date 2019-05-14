@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9002: ignoring unknown option '-g'
+cl : Command line warning D9002: ignoring unknown option '-O3'
+  main.cpp
+G:\Documents\ZED\dep\main.cpp(19): warning C4305: '=': truncation from 'double' to 'float'
+G:\Documents\ZED\dep\main.cpp(48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Documents\ZED\dep\main.cpp(49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  dep.vcxproj -> G:\Documents\ZED\dep\build\Release\dep.exe
